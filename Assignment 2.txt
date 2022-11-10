@@ -1,0 +1,16 @@
+<html>
+<body>
+<form>
+First Name: <Input type = "text" value =" "><hr>
+Last Name : <Input type = "text" value =" "><br>
+First Name: <Input type = "password" value =" "><br></br>
+Gender    : <Input type = "radio" name ="gender" value = "Male"> Male
+            <Input type = "radio" name ="gender" value ="Female> Female <br> </br>
+Check box : <Input type = "check box" value = "B-Tech"> B-Tech
+            <Input type = "check box" value ="Ready to Relocate"> Ready to Relocate
+            <Input type = "check box" value ="Have Passport"> Have Passport <br> </br>
+<Input type = "Button" value ="Button here"> 
+<Input type = "Submit" value ="Click here"> 
+</form>
+</body>
+</html>
